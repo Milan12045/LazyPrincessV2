@@ -14,7 +14,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'MDBOT')
 API_ID = int(environ.get('API_ID', '1147367922'))
 API_HASH = environ.get('API_HASH', '8317840cfdbe5b0b64df1ce132435097')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+BOT_TOKEN = environ.get('BOT_TOKEN', "6243744410:AAFbR5TBPXVLtD33AmjU0IysvpmC4jCpeDk")
 
 #Port
 PORT = environ.get("PORT", "8080")
